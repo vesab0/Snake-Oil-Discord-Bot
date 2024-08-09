@@ -4,8 +4,8 @@ import discord
 import random 
  #2.3.2
 
-bot_token = "MTIxMDU3MzEyNDEwNjQ2MTIzNg.GbTzLe.xlWZVIn1FdxSXuKewbv5TdHKEGYg0pv58VMcb8"
-channelid = 1210574503000809485
+bot_token = "YOURBOTTOKEN"
+channelid = YOURCHANNELID
 
 bot = commands.Bot(command_prefix="!", intents=discord.Intents.all())
 
