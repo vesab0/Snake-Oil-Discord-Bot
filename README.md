@@ -1,6 +1,8 @@
 # Snake-Oil-Discord-Bot
 Discord bot that helps play snake oil card game.
-
+<br>
+Add your bot token and your channel ID in the python code
+<br>
 Snake Oil is a card game where everyone goes around being the judge while the others try to sell products to them. To become the judge use:
 <br>
 <br>
